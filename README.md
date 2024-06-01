@@ -4,4 +4,4 @@
 [傳送門](https://github.com/evilryo0309/blog/issues)
 
 ## 目錄
-1. (構思中)
+1. [Some Aids for Learning Using the Bottom-Up Approach. 學習方式使用由下而上的一些輔助](https://github.com/evilryo0309/blog/issues/1) 2024-06-01
